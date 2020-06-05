@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a867820d-5e21-49c0-86bd-4456811e6ab6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="practica1-http" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="practica1-http" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="practica1-http" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cmLFC12Et77xi2mY0sudfV0sF6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="practica1-http [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.practica1-http [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a867820d-5e21-49c0-86bd-4456811e6ab6" name="Default Changelist" comment="" />
+      <created>1591128715357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591128715357</updated>
+      <workItem from="1591128718708" duration="140000" />
+      <workItem from="1591128903292" duration="232000" />
+      <workItem from="1591129230032" duration="19357000" />
+      <workItem from="1591212497248" duration="2547000" />
+      <workItem from="1591226056718" duration="4882000" />
+      <workItem from="1591232513344" duration="199000" />
+      <workItem from="1591232756384" duration="23000" />
+      <workItem from="1591233104042" duration="67000" />
+      <workItem from="1591233584454" duration="801000" />
+      <workItem from="1591249023669" duration="1199000" />
+      <workItem from="1591301606819" duration="236000" />
+      <workItem from="1591301894983" duration="479000" />
+      <workItem from="1591303007280" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2283" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591225903202">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2283" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591225903202" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1591302374379">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1591302374379">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1591302374379">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1591302374379">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591196137759">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144018312" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591196137759" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591196137758">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144018312" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591196137758" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591196137758">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144018311" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591196137758" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591196137758">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144018312" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591196137758" />
+  </component>
+</project>
