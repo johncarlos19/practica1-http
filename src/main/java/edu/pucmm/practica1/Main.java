@@ -162,7 +162,7 @@ public class Main {
         return matcher.matches();
     }
     public static String devuelve(Scanner entra){
-        String link = "https://www.lawebdelprogramador.com/";
+        String link = null;
         if (entra.hasNextLine()){
             link = entra.nextLine();
         }
