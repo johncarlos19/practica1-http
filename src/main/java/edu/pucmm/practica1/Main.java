@@ -90,14 +90,17 @@ public class Main {
     private static void CantImg(Document docu) {
 
         int pp = 1;
+        int cuenta = 0;
         for (Element link:docu.getElementsByTag("p")) {
             int count = link.getElementsByTag("img").size();
             if(count != 0) {
                 System.out.println("En EL <P>#" + pp + " Hay un total de Img:" + count);
+                cuenta+=count;
             }
             pp++;
 
         }
+        System.out.println("Hay un total de img:"+cuenta);
 
     }
     private static void Imprimir_cant_form(Document docu){

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a867820d-5e21-49c0-86bd-4456811e6ab6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/edu/pucmm/practica1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/edu/pucmm/practica1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/pucmm/practica1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pucmm/practica1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,30 +155,30 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2471" y="262" key="Github.ShareDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591332113094" />
-    <state width="1876" height="299" key="GridCell.Tab.0.bottom" timestamp="1591378194675">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1591380286743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
     <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
-    <state width="1876" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591378194675" />
-    <state width="1876" height="299" key="GridCell.Tab.0.center" timestamp="1591378194675">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591380286743" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1591380286742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="344" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
     <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
-    <state width="1876" height="299" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591378194675" />
-    <state width="1876" height="299" key="GridCell.Tab.0.left" timestamp="1591378194675">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591380286742" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1591380286741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="344" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
     <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
-    <state width="1876" height="299" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591378194674" />
-    <state width="1876" height="299" key="GridCell.Tab.0.right" timestamp="1591378194675">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591380286741" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1591380286742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="344" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1591144134013" />
     <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1591302374379" />
-    <state width="1876" height="299" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591378194675" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591380286742" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591196137759">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
